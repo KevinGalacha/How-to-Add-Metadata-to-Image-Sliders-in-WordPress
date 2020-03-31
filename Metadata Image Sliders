@@ -1,0 +1,65 @@
+Do you want to add metadata to your WordPress sliders? Metadata is a hidden HTML element that tells search engines and screen readers about elements of your website, such as describing images and their purpose. It’s extremely important for both SEO and accessibility reasons that your images have descriptive metadata.
+
+If you’re concerned about using carousels on your site because they might be missing this key SEO feature, there’s nothing to worry about. With Soliloquy sliders, you can easily add meta attributes such as title and alt text to all images on your slider.
+
+To add meta attributes to a WordPress slider, you’ll need to follow these three easy steps!
+
+Step 1. Install and activate Soliloquy
+
+Step 2. Create and edit a slider
+
+Step 3. Add image metadata
+If you’re not sure how to properly write image titles or alt text, don’t worry! We break down each of the metadata options later in the article.
+Step 1. Install and activate Soliloquy
+
+To add a slider to your WordPress site and modify its metadata, you’ll need to download and activate the Soliloquy plugin. You can download the premium version or try Soliloquy Lite.
+
+Both Soliloquy and Soliloquy Lite can be installed via FTP, or from your Admin Panel. On the Plugins screen, found on the left-hand bar, search for Soliloquy Lite or upload the zip file you were given when you purchased Soliloquy.
+
+If you’re having trouble, check out this installation guide.
+Step 2. Create and edit a slider
+
+On your admin dashboard, you should see a “Soliloquy” tab. Hover over it and click “Add New”. Here you can add your images, slider title, and other details. Go ahead and finish creating your slider now.
+
+Once your images are uploaded, you’ll need to edit your slider. Just click “Soliloquy” and you’ll see a list of all your sliders. Find the one you want to edit and click its name. You’ll see the thumbnails of all the images you uploaded in a row. Click the blue pencil button to edit each image individually.
+Step 3. Add image metadata
+
+Once you click the blue pencil icon, a box should pop up showing your image and the metadata fields on the right.
+
+The two essential attributes here are title and alt text. Title is self-explanatory; just name the slide something simple that quickly describes the image in a few words. Alt text is more important. If an image fails to load, or is being processed by a screen reader or search engine, the alt text will display instead. Give a good, concise description of the image that isn’t too vague or wordy.
+
+Other optional meta attributes here include captions, which will be displayed over the image. You can insert a URL that opens when that slide is clicked. If you’ve installed other Soliloquy addons, you may see thumbnails or lightbox options.
+
+A lightbox causes the image to pop up in a box with the screen darkened, for enhanced visibility. Thumbnails will show a small image at the bottom of the slide, allowing visitors to preview future slides. You can link to any image you’d like to use as a thumbnail.
+
+When you’re finished, remember to click “Save Metadata” and update your slider.
+How to Create Metadata
+
+You may still be confused — how can you create perfect metadata that’s SEO-friendly? What is the purpose of these attributes? Once you understand this, metadata is very simple and adding it to your images should only take seconds.
+Image Title
+
+The image title is not important for SEO, but you may still want to specify one for your images. The title appears when the image is hovered over, so keep this in mind; use proper grammar and capitalization, and give the picture a short, descriptive title. If you don’t set a title, the alt text will be used on hover instead.
+Image Alt Text
+
+When an image fails to load, is being accessed by a screen reader or search engine crawler, or otherwise can’t be displayed on a device, the alt text will appear. Alt text should be used to provide context for those who can’t load images or are visually impaired.
+
+In addition, alt text is indexed by search engines, so you can take the opportunity to sparingly and sensibly use relevant keywords. However, never use alt text for keyword stuffing. This can result in severely damaged SEO (and annoyed screen reader users).
+
+Alt text description should be helpful but succinct. Examine the image; watch where your eye goes and point out major details that you notice. Feel free to use a keyword or two — your article or website will appear more relevant to search engines when people look for that topic — but incorporate it naturally.
+
+Alt text can be cut off by some screen readers, so try to limit your description to 125 characters or less.
+
+If your image is included for design reasons and holds no meaning, you can leave the alt text attribute blank and screen readers will ignore the image.
+Image Link
+
+Should your slides link to a different page? Maybe a promotion on your website, a product, or a page you wanted to share? All you need to do is grab the URL of the page you want to link to and paste it into the “Image Link” box.
+
+You also need to decide whether the link should open a new tab or not. Opening a new tab is great if you want users to return to your homepage, or wherever your slider is located. They can continue browsing once they’re finished looking at the other page. If you don’t check this box, users will remain on the same tab and leave the homepage when they click the link.
+Image Caption
+
+A caption is text that displays on the image in your slider. Unlike alt text, captions are visible to users, but they share a similar function. Use a caption to describe an image to visitors, use a call to action, or provide extra context about a photo.
+Adding Meta Attributes to WordPress Sliders
+
+Though it may seem like a small thing, adding metadata (especially alt tags) to your images is very important. Optimizing your SEO takes a lot of small steps, but each one helps you get that much further to the top!
+
+Did this guide help you add metadata to your sliders? 
